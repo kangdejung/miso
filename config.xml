@@ -15,7 +15,7 @@
 	<gap:plugin name="cordova-plugin-whitelist" source="npm" />
     <gap:plugin name="cordova-plugin-inappbrowser" source="npm"  />
 	<gap:plugin name="org.apache.cordova.splashscreen" />
-	<allow-navigation href="http://demo.dungzi.com/*" />
+	<allow-navigation href="http://미소부동산연구센터.net/*" />
 	<icon src="icon.png" />
     <content src="index.html" />
     <access origin="*" />
