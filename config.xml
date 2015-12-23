@@ -15,7 +15,7 @@
 	<gap:plugin name="cordova-plugin-whitelist" source="npm" />
     <gap:plugin name="cordova-plugin-inappbrowser" source="npm"  />
 	<gap:plugin name="org.apache.cordova.splashscreen" />
-	<allow-navigation href="http://xn--2e0bw5jgrh2rbv0gbya4p94zwm0a.net/*" />
+	<allow-navigation href="http://demo.dungzi.com/*" />
 	<icon src="icon.png" />
     <content src="index.html" />
     <access origin="*" />
