@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="com.dungzi.miso" version="10" xmlns="http://www.w3.org/ns/widgets"  xmlns:gap="http://phonegap.com/ns/1.0">
-    <name>국민공인중개</name>
+    <name>미소부동산연구센터</name>
     <description>	
-        국민공인중개
+        미소부동산연구센터
     </description>
     <author email="webplug@gmail.com" href="http://www.dungzi.com/">
         Dungzi Team
